@@ -1,1 +1,2 @@
-shell/  shell/
+shell/simulateOrders.php        shell/simulateOrders.php
+shell/simulateStockUpdates.php  shell/simulateStockUpdates.php
