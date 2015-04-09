@@ -84,7 +84,6 @@ class Ex_Shell_SimulateStockUpdates extends Ex_Shell_Abstract
 
     }
 
-
     /**
      * Retrieve Usage Help Message
      */
