@@ -40,6 +40,7 @@ class Ex_Shell_Abstract extends Mage_Shell_Abstract
     {
         return Mage::getModel('core/resource_transaction');
     }
+
     /**
      * Returns id of random customer entity
      * @return string
